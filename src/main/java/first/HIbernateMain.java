@@ -47,5 +47,5 @@ public class HIbernateMain {
 		}
 		System.out.println("Values are inserted");
 	}
-
+//
 }
